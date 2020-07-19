@@ -5789,7 +5789,7 @@ a.list-item {
   }
 }
 .navbar.is-primary {
-  background-color: #454545;
+  background-color: #0d0427;
   color: #fff;
 }
 .navbar.is-primary .navbar-brand .navbar-link,
@@ -8595,7 +8595,7 @@ label.panel-block:hover {
   }
 }
 .hero.is-primary {
-  background-color: #454545;
+  background-color: #0d0427;
   color: #fff;
 }
 .hero.is-primary

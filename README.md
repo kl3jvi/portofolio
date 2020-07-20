@@ -1,7 +1,7 @@
 # devfolio
 A simple, responsive, single-page portfolio and resume for developers built with Bulma, Sass, Font Awesome and Flickity.
 
-View the [demo here](https://klejvi.me).
+View the [demo here](http://klejvi.me).
 
 ## Setup
 
